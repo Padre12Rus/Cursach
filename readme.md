@@ -24,8 +24,8 @@ Wi-Fi Chat — это кроссплатформенное приложение 
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/yourusername/wifi-chat.git
-   cd p2p-chat
+   git clone https://github.com/Padre12Rus/Cursach
+   cd Cursach
    ```
 2. Установить зависимости:
    ```bash
